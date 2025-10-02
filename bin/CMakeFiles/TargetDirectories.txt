@@ -1,0 +1,3 @@
+C:/Users/mijan/Desktop/CPP_game_dev/mini_engine/bin/CMakeFiles/MiniEngine.dir
+C:/Users/mijan/Desktop/CPP_game_dev/mini_engine/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/mijan/Desktop/CPP_game_dev/mini_engine/bin/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\MIJAN\DESKTOP\CPP_GAME_DEV\MINI_ENGINE\BIN\CMAKEFILES\2360F3FD159566C7E47F214159E26C56\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mijan/Desktop/CPP_game_dev/mini_engine -BC:/Users/mijan/Desktop/CPP_game_dev/mini_engine/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mijan/Desktop/CPP_game_dev/mini_engine/bin/MiniEngine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
