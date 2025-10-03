@@ -1,5 +1,0 @@
-﻿  engine.cpp
-C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\Time.h(31,29): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  (compiling source file '../src/core/engine.cpp')
-  
-  MiniEngine.vcxproj -> C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\bin\Debug\MiniEngine.exe
