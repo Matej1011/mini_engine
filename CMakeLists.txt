@@ -19,7 +19,7 @@ else()
     list(APPEND EXTRA_LIBS X11)
 endif()
 
-list(APPEND SOURCE_FILES src/core/engine.cpp src/core/engine.h src/core/entry_point.cpp src/core/mini_window.h)
+list(APPEND SOURCE_FILES src/core/engine.cpp src/core/engine.h src/core/entry_point.cpp src/core/mini_window.h src/core/time.h)
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME})

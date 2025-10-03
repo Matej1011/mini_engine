@@ -366,6 +366,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\engine.h" />
     <ClCompile Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\entry_point.cpp" />
     <ClInclude Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\mini_window.h" />
+    <ClInclude Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\time.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

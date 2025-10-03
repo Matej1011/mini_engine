@@ -21,6 +21,9 @@
     <ClInclude Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\mini_window.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\src\core\time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\mijan\Desktop\CPP_game_dev\mini_engine\CMakeLists.txt" />
